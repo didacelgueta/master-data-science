@@ -6,4 +6,4 @@ Fem un segon canvi...
 
 Fem un canvi des de github!
 
-Canvi des de la web per crear conflicte
+Bon dia!!
