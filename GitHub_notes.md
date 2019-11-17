@@ -1,15 +1,13 @@
 # master-data-science
 
-Omplim de contingut el fitxer README.md
+GitHub notes
 
-Fem un segon canvi...
+1. git pull --> update the local repo.
 
-Fem un canvi des de github!
+Exemple of renaming a file
 
-Bon dia!!
-
-Canvis
-
-*********************************************************
-
-Nou comementari per fer proves...
+1. From local out of Repo directory rename using mv
+2. git rm <old_file>
+3. git add <new_file>
+4. git commit -m "message"
+5. git push
