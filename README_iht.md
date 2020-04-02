@@ -1,1 +1,0 @@
-Hola mundo, qué tal?
